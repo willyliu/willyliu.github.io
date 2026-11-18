@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kkcompany.jamjam",
+      "sha256_cert_fingerprints": [
+        "2F:26:13:BA:75:9C:5F:05:42:19:D5:A4:6E:B0:68:89:BC:21:E5:1B:C5:5C:3A:CE:68:EF:DE:03:A8:01:F5:3F",
+        "75:35:7D:76:66:C9:F0:DA:A2:2C:AF:5D:88:14:4E:1E:DF:20:0D:01:CC:D3:E3:6C:67:66:9B:80:48:4E:0B:6C"
+      ]
+    }
+  }
+]
