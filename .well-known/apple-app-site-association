@@ -10,6 +10,16 @@
             "/": "/*"
           }
         ]
+      },
+      {
+        "appIDs": [
+          "FV623VTF3J.com.kkcompany.jamjam-inhouse"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
       }
     ]
   }
