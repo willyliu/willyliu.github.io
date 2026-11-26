@@ -3,21 +3,12 @@
     "details": [
       {
         "appIDs": [
-          "SK2HR58X38.com.kkcompany.jamjam"
+          "SK2HR58X38.com.kkcompany.jamjam",
+          "SK2HR58X38.com.kkcompany.jamjam-inhouse"
         ],
         "components": [
           {
-            "/": "/*"
-          }
-        ]
-      },
-      {
-        "appIDs": [
-          "FV623VTF3J.com.kkcompany.jamjam-inhouse"
-        ],
-        "components": [
-          {
-            "/": "/*"
+            "/": "/platform/ntag/*"
           }
         ]
       }
